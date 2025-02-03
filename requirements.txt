@@ -1,0 +1,5 @@
+aiogram
+pandas
+gspread
+asyncio
+python-dotenv
